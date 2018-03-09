@@ -6,7 +6,8 @@
 title: 个人博客
 subtitle: 学习本无底，前进莫徬徨
 description: 个人博客，用户个人学习和工作需要
-author: 薛祥宇
+author: snow
+email: 15093568689@163.com
 language: zh-Hans
 timezone:
 
@@ -77,8 +78,27 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 # theme: landscape
-theme: next
+# theme: next
+theme: yilia
 
+jsonContent:
+    meta: false
+    pages: false
+    posts:
+      title: true
+      date: true
+      path: true
+      text: false
+      raw: false
+      content: false
+      slug: false
+      updated: false
+      comments: false
+      link: false
+      permalink: false
+      excerpt: false
+      categories: false
+      tags: true
 # Deployment
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
