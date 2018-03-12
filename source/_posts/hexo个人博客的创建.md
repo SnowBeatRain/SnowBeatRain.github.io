@@ -12,9 +12,9 @@ toc: true
 
 github，node，git
    
- - http://www.runoob.com/w3cnote/git-guide.html（github菜鸟教程）
- - http://www.runoob.com/nodejs/nodejs-install-setup.html（node菜鸟教程）
- - https://git-scm.com/ （git官网）
+ - http://www.runoob.com/w3cnote/git-guide.html  （github菜鸟教程）
+ - http://www.runoob.com/nodejs/nodejs-install-setup.html  （node菜鸟教程）
+ - https://git-scm.com/  （git官网）
 
 
 
