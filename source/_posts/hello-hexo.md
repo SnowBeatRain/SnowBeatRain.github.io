@@ -8,3 +8,11 @@ categories: 搭建博客
 toc: true  
 ---
 该文本为测试文本，主要用于博客搭建的测试。
+
+如果更换电脑：操作步骤如下：
+
+    git clone git@github.com:SnowBeatRain/SnowBeatRain.github.io.git
+    npm install 
+    npm install hexo -g   //安装hexo
+    hexo s    //开启本地服务器查看
+    hexo d -g   //部署到网上
