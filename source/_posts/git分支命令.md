@@ -1,0 +1,40 @@
+---
+title: 常见的我容易忘记的git分支命令
+date: 2018-05-18 20:35:46
+tags: [git,分支]
+---
+
+## 创建分支 ##
+  
+
+ 1. 本地分支
+ >`git branch <name>`
+ 2. 推送远程
+ >`git push origin <name>`   默认推送到远程自动创建一个test分支
+ 3. 创建本地分支并切换
+ >`git checkout -b <name>`
+
+## 查看分支 ##
+
+ 1. 查看本地分支
+ >`git branch`
+ 2. 查看所有分支（包括远程）
+ > `git branch -a`
+
+## 切换分支 ##
+
+>`git checkout <name>`
+
+
+## 合并分支 ##
+
+1. 合并分支到当前分支
+>`git merge <name>`
+
+## 删除分支 ##
+
+ 1. 删除本地分支
+ >`git branch -d <name>`
+ 2. 删除远程分支
+ >`git push origin --delete <name>`
+
