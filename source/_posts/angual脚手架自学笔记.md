@@ -4,6 +4,7 @@ date: 2018-05-18 14:10:01
 tags: [angular2,自学笔记]
 ---
 
+项目地址：[https://github.com/SnowBeatRain/angular_my][5]
 
 ----------
 本笔记用于个人学习，使用angular cli工具进行开发
@@ -64,3 +65,4 @@ tags: [angular2,自学笔记]
   [2]: https://www.angular.cn/
   [3]: https://www.angular.cn/
   [4]: https://raw.githubusercontent.com/SnowBeatRain/blogImages/master/angluar_nav.png
+  [5]:https://github.com/SnowBeatRain/angular_my
