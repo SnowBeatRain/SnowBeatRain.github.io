@@ -1,5 +1,5 @@
 ---
-title: '你好，hexo'
+title: '多端维护博客简单步骤'
 data: 2018-03-08 00:00:00
 tags: [hexo,github,npm,基础]
 # //在此处输入这篇文章的分类。
