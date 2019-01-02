@@ -9,7 +9,7 @@ subnav:
   github: "https://github.com/SnowBeatRain"
   # weibo: "https://weibo.com/5033173340/profile?topnav=1&wvr=6"
   # rss: "#"
-  zhihu: "https://www.zhihu.com/people/xue-xiang-yu-49-31/activities"
+  # zhihu: "https://www.zhihu.com/people/xue-xiang-yu-49-31/activities"
   #qq: "#"
   #weixin: "#"
   #jianshu: "#"
@@ -121,5 +121,6 @@ smart_menu:
 
 friends:
   github: https://github.com/SnowBeatRain
+  gitee: https://gitee.com/SnowBeatRain
 
 aboutme: 姓名：薛祥宇<br><br>专业：web前端开发攻城狮<br><br>email：15093568689@163.com
